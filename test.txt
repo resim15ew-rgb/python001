@@ -1,0 +1,7 @@
+
+1,"A","ADATA"
+2,"B","BDATA"
+3,"C","CDATA"
+4,"D","DDATA"
+5,"E","EDATA"
+
